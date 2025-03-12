@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Rajat Naraini
+# 👋 Namaste World! I'm Rajat Naraini
 
 <div align="center">
   
